@@ -1,0 +1,41 @@
+.Icon-container {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 48px;
+  /* background-color: #CCC; */
+}
+.Icon-container--check {
+  position: absolute;
+  left: 12px;
+}
+.Icon-container--edit {
+  width: 30px;
+  position: absolute;
+  top: -20px;
+  right: 75px;
+}
+.Icon-container--delete {
+  position: absolute;
+  top: -24px;
+  right: 0;
+}
+
+.Icon-svg {
+  width: 40px;
+  height: 40px;
+  transition: fill .15s;
+}
+
+
+.Icon-container:hover .Icon-svg--check {
+  fill: red;
+}
+.Icon-container:hover .Icon-svg--edit {
+  fill: green;
+}
+.Icon-container:hover .Icon-svg--delete {
+  fill: black;
+}
