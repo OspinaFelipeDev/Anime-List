@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pagina-snk-sass
 Fan page de ataque a los titanes, utilizando SASS
 
@@ -29,4 +28,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 =======
 # Anime-Visual
 lista de anime
+
+=======
+# Anime-List
+App para llevar en cuenta los animes que he visto
 
