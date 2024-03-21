@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pagina-snk-sass
 Fan page de ataque a los titanes, utilizando SASS
 
@@ -24,4 +25,8 @@ Este proyecto es una página web dedicada al anime "Ataque a los Titanes". La p�
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+=======
+# Anime-Visual
+lista de anime
 
