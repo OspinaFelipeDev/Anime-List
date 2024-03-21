@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Anime-List/static/css/main.b549bb1c.css",
+    "main.js": "/Anime-List/static/js/main.0d9cbdf0.js",
+    "static/media/delete.svg": "/Anime-List/static/media/delete.a34cf13b9eac09fb97d1f474260ed96f.svg",
+    "static/media/check.svg": "/Anime-List/static/media/check.87c1644a17d538cb4ec5ac0eabe49348.svg",
+    "static/media/not.png": "/Anime-List/static/media/not.75aabae16c8a0f37d686.png",
+    "index.html": "/Anime-List/index.html",
+    "static/media/edit.svg": "/Anime-List/static/media/edit.ca80ed44ca21affa8d3f6064291bc87e.svg",
+    "main.b549bb1c.css.map": "/Anime-List/static/css/main.b549bb1c.css.map",
+    "main.0d9cbdf0.js.map": "/Anime-List/static/js/main.0d9cbdf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b549bb1c.css",
+    "static/js/main.0d9cbdf0.js"
+  ]
+}
