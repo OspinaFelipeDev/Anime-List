@@ -15,10 +15,16 @@ Una aplicación web simple para gestionar una lista de animes. Permite a los usu
 - CSS
 - JavaScript
 
-## Capturas de Pantalla
+## Capturas de Pantalla 📷📷
 
-![Captura de Pantalla 1](/ruta/a/captura1.png)
-![Captura de Pantalla 2](/ruta/a/captura2.png)
+- Página principal.
+
+![Inicio](./src/img/list.png)
+
+- Agregar Anime a la lista
+
+![Agregar Anime](./src/img/list-1.png)
+
 
 ## Instrucciones de Uso
 
